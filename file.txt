@@ -1,0 +1,2 @@
+This is a file for practice.
+Practicing how we can create a project locally and push it to the remote repository.
