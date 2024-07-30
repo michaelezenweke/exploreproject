@@ -1,2 +1,4 @@
 This is a file for practice.
 Practicing how we can create a project locally and push it to the remote repository.
+Branching helps us create a local copy of our project to make changes we are not ready to commit. 
+This exercise helps us brainstorm and perfect our branching skills.
